@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Twenty Nineteen Starter`,
-    description: `Gatsby starter site for Twenty Nineteen Gatsby Theme.`,
-    author: `@muhsinlk`,
+    title: `Ivan Kristianto Blog`,
+    description: `Personal Blog with Gatsby Starter Theme.`,
+    author: `@ivankrisdotcom`,
     wordPressUrl: `http://dev-twenty-nineteen-gatsby-demo.pantheonsite.io`
   },
   __experimentalThemes: [
